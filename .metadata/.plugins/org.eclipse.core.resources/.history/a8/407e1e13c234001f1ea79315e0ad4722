@@ -1,0 +1,5 @@
+package com.natso.sbmvc.model;
+
+public class Alien {
+
+}
